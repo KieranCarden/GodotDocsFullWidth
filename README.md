@@ -1,4 +1,4 @@
-# GodotDocsFullWidth
+# Godot Docs Full Width bookmarklet
 Simple javascript snippet for a bookmarklet to change the [Godot docs](https://docs.godotengine.org/en/3.2/index.html) from centered to full width.
 
 * Copy the JS and create a normal bookmark
