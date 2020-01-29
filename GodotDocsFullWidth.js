@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20body%3Ddocument.querySelector('body')%3Bvar%20content%3Ddocument.querySelector('.wy-nav-content')%3Bbody.setAttribute(%22style%22%2C%20%22max-width%3A100%25%20!important%3B%22)%3Bcontent.setAttribute('style'%2C%20'max-width%3A100%25%20!important%3B')%7D)()
